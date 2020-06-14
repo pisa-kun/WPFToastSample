@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushApp", "PushApp.csproj", "{8EACE014-DE38-430B-93DC-50C3FEDD7787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopUpApp", "..\PopUpApp\PopUpApp.csproj", "{9B23531E-E169-4329-900F-E7F80FA4B6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EACE014-DE38-430B-93DC-50C3FEDD7787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EACE014-DE38-430B-93DC-50C3FEDD7787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EACE014-DE38-430B-93DC-50C3FEDD7787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EACE014-DE38-430B-93DC-50C3FEDD7787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B23531E-E169-4329-900F-E7F80FA4B6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B23531E-E169-4329-900F-E7F80FA4B6E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B23531E-E169-4329-900F-E7F80FA4B6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B23531E-E169-4329-900F-E7F80FA4B6E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4170868F-CFF3-4AF3-AA3B-E22C7E0F0934}
+	EndGlobalSection
+EndGlobal

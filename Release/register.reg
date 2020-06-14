@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\toastsample]
+@="url:toastsample protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\toastsample\Shell]
+
+[HKEY_CLASSES_ROOT\toastsample\Shell\Open]
+
+[HKEY_CLASSES_ROOT\toastsample\shell\open\command]
+@="C:\\Develop\\csharp\\WPFToastSample\\Release\\popupApp.exe"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Shell\URLProtocols\toastsample]
